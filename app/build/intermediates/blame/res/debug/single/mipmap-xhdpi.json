@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\mystuff\\ThermoSensor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "D:\\mystuff\\ThermoSensor\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\mystuff\\ThermoSensor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
+        "source": "D:\\mystuff\\ThermoSensor\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    }
+]

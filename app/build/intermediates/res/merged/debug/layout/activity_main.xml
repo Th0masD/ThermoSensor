@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@android:color/black"
+    android:weightSum="1">
+
+
+    <TextView
+        android:id="@+id/EmptySpace"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:layout_weight="0.23" />
+
+    <TextView
+        android:id="@+id/textTemperature"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Teplota"
+        android:textAlignment="center"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:textColor="@android:color/white"
+        android:textSize="80sp" />
+
+    <TextView
+        android:id="@+id/textUnits"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Units"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:textAlignment="center"
+        android:textColor="@android:color/darker_gray"
+        android:textSize="50sp" />
+
+    <TextView
+        android:id="@+id/textFrequency"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.08"
+        android:text="Input Frequency"
+        android:textAlignment="center"
+        android:textColor="@android:color/white" />
+
+</LinearLayout>

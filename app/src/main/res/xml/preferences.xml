@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:defaultValue="0"
+        android:inputType="number|numberSigned"
+        android:key="TemperatureOffset"
+        android:summary="Enter temperatuer sensor offset. For example  -5"
+        android:title="Tepmperature offset"></EditTextPreference>
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="ShowFrequency"
+        android:title="Show input frequency" />
+    <ListPreference
+        android:defaultValue="1"
+        android:entries="@array/listArray"
+        android:entryValues="@array/listValues"
+        android:key="TemperatureUnits"
+        android:summary="Select the Celsius °C or Fahrenheit °F units"
+        android:title="Temperture units" />
+</PreferenceScreen>

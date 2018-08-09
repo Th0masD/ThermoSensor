@@ -1,10 +1,10 @@
 [
     {
-        "merged": "D:\\mystuff\\ThermoSensor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
-        "source": "D:\\mystuff\\ThermoSensor\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "D:\\mystuff\\Android\\ThermoSensor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "D:\\mystuff\\Android\\ThermoSensor\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\mystuff\\ThermoSensor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
-        "source": "D:\\mystuff\\ThermoSensor\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "D:\\mystuff\\Android\\ThermoSensor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "D:\\mystuff\\Android\\ThermoSensor\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     }
 ]

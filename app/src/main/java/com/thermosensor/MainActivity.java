@@ -178,6 +178,7 @@ public class MainActivity extends AppCompatActivity {
                 MyPreferencesActivity();
                 return true;
             case R.id.action_about:
+                About();
                 return true;
             default:
                 return super.onOptionsItemSelected(item);
@@ -190,6 +191,11 @@ public class MainActivity extends AppCompatActivity {
             Intent i = new Intent(MainActivity.this, MyPreferencesActivity.class);
             startActivity(i);
         }
+
+    private void About() {
+        Intent i = new Intent(MainActivity.this, About.class);
+        startActivity(i);
+    }
 
 
     @Override

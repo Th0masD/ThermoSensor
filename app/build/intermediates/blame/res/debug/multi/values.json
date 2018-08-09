@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\mystuff\\ThermoSensor\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "outputFile": "D:\\mystuff\\Android\\ThermoSensor\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 168
                 },
                 "from": {
-                    "file": "D:\\mystuff\\ThermoSensor\\app\\src\\main\\res\\values\\array.xml",
+                    "file": "D:\\mystuff\\Android\\ThermoSensor\\app\\src\\main\\res\\values\\array.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -33,7 +33,7 @@
                     "endOffset": 271
                 },
                 "from": {
-                    "file": "D:\\mystuff\\ThermoSensor\\app\\src\\main\\res\\values\\array.xml",
+                    "file": "D:\\mystuff\\Android\\ThermoSensor\\app\\src\\main\\res\\values\\array.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -1438,7 +1438,7 @@
                     "endOffset": 6451
                 },
                 "from": {
-                    "file": "D:\\mystuff\\ThermoSensor\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "D:\\mystuff\\Android\\ThermoSensor\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -1457,7 +1457,7 @@
                     "endOffset": 6498
                 },
                 "from": {
-                    "file": "D:\\mystuff\\ThermoSensor\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "D:\\mystuff\\Android\\ThermoSensor\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -1476,7 +1476,7 @@
                     "endOffset": 6549
                 },
                 "from": {
-                    "file": "D:\\mystuff\\ThermoSensor\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "D:\\mystuff\\Android\\ThermoSensor\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -5010,7 +5010,7 @@
                     "endOffset": 44004
                 },
                 "from": {
-                    "file": "D:\\mystuff\\ThermoSensor\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\mystuff\\Android\\ThermoSensor\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 1,
                         "startColumn": 4,
@@ -5144,7 +5144,7 @@
                     "endOffset": 44799
                 },
                 "from": {
-                    "file": "D:\\mystuff\\ThermoSensor\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "D:\\mystuff\\Android\\ThermoSensor\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
